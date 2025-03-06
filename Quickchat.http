@@ -1,0 +1,6 @@
+@Quickchat_HostAddress = http://localhost:5218
+
+GET {{Quickchat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
